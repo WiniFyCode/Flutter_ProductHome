@@ -1,0 +1,28 @@
+name: kiemtra
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/assets/images/cappuccino.jpg
+    - lib/assets/images/ic_black_coffee.png
+    - lib/assets/images/caphe1.jpg
+    - lib/assets/images/caphe2.jpg
+    - lib/assets/images/caphe3.jpg
+    - lib/assets/images/caphe4.jpg
+    - lib/assets/images/caphe5.jpeg
